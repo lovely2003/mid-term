@@ -1,21 +1,21 @@
 body {
     padding: 0px;
     margin: 0px;
-    font-size: 14px;
+    font-size: 15px;
     background: rgb(66, 234, 57);
 }
 div#content {
-    padding: 10px;
+    padding: 11px;
 }
 .sec-section{
-    padding: 10px;
+    padding: 11px;
 }
 #form-contact {
-    padding: 10px;
+    padding: 11px;
 }
 main {
     background: rgb(230, 203, 24);
-    max-width:76%;
+    max-width:75%;
     margin: auto;
 }
 
@@ -30,7 +30,7 @@ main {
     padding: 265px 0px 75px;
     margin: 0px;
     color: white;
-    font-size: 50px;
+    font-size: 51px;
 }
 /* menu list  */
 div#nav ul {
@@ -45,8 +45,8 @@ div#nav ul {
 div#nav ul li {
     width: 100%;
     text-align: center;
-    font-size: 20px;
-    padding: 10px;
+    font-size: 21px;
+    padding: 11px;
     text-transform: uppercase;
 }
 div#nav ul li:nth-child(2) {
@@ -73,12 +73,12 @@ div#content img {
 }
 
 h2 {
-    font-size: 20px;
-    margin: 11px 0px;
+    font-size:22px;
+    margin: 12px 0px;
 }
 
 div#content p {
-    padding: 0px 18px;
+    padding: 0px 17px;
     margin: 0px;
     font-size: 17px;
 }
@@ -92,9 +92,9 @@ footer {
 /* facts area */
 .sec-section ul {
     padding-top: 1px;
-    font-size: 17px;
-    padding-left: 25px;
-    padding-right: 25px;
+    font-size: 18px;
+    padding-left: 26px;
+    padding-right: 26px;
 }
 /* form design */
 form {
@@ -118,8 +118,8 @@ form {
 #submit {
     border: 1px solid black;
     width: 90px;
-    font-size: 14px;
+    font-size: 15px;
     padding: 10px 0px;
-    margin-top: 20px;
+    margin-top: 21px;
     background: transparent;
 }
